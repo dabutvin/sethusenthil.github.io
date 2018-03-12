@@ -2,14 +2,6 @@
 :root {
     --main-blue: #4285F4;
 }
-@font-face {
-  font-family: "Circular";
-  src: url(https://www.bu.edu/cdn/fonts/Circular/Circular-Book.eot);
-  src: url("https://www.bu.edu/cdn/fonts/Circular/Circular-Book.eot?#iefix") format("embedded-opentype"), url(https://www.bu.edu/cdn/fonts/Circular/Circular-Book.woff) format("woff"), url(https://www.bu.edu/cdn/fonts/Circular/Circular-Book.ttf) format("truetype");
-  font-style: normal;
-  font-weight: 800
-}
-
 .gfont {
   font-family: 'Product Sans', Arial, sans-serif
 }
